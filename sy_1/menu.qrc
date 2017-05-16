@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="/File">
+    <file>icon/bx_close.png</file>
+    <file>icon/bx_close_hover.png</file>
+    <file>icon/del.png</file>
+    <file>icon/designer-add-custom-toolbar.png</file>
+    <file>icon/designer-add-files-button.png</file>
+    <file>icon/layerclose.hover.png</file>
+    <file>icon/linguist-check-empty.png</file>
+    <file>icon/linguist-check-obsolete.png</file>
+    <file>icon/linguist-check-off.png</file>
+    <file>icon/linguist-check-on.png</file>
+    <file>icon/linguist-check-warning.png</file>
+    <file>icon/linguist-danger.png</file>
+    <file>icon/linguist-editcopy.png</file>
+    <file>icon/linguist-editcut.png</file>
+    <file>icon/linguist-editfind.png</file>
+    <file>icon/linguist-editpaste.png</file>
+    <file>icon/linguist-fileopen.png</file>
+    <file>icon/linguist-filesave.png</file>
+    <file>icon/pane_nofav.png</file>
+    <file>icon/pane_nofav_hover.png</file>
+    <file>icon/pane_nothrough.png</file>
+    <file>icon/pane_nothrough_hover.png</file>
+    <file>icon/pane_through.png</file>
+    <file>icon/pane_through_hover.png</file>
+    <file>icon/paneoption.png</file>
+    <file>icon/paneoption_hover.png</file>
+    <file>icon/paneoption_pressed.png</file>
+    <file>icon/qmessagebox-crit.png</file>
+    <file>icon/qmessagebox-info.png</file>
+    <file>icon/qmessagebox-quest.png</file>
+    <file>icon/qmessagebox-warn.png</file>
+    <file>icon/search_clear.png</file>
+    <file>icon/treemyfav.png</file>
+    <file>icon/win_close.png</file>
+    <file>icon/win_close_hover.png</file>
+  </qresource>
+  <qresource prefix="新前缀"/>
+</RCC>
